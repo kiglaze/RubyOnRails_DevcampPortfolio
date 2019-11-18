@@ -38,8 +38,8 @@ rails s
 rails g scaffold Blog title:string body:text
 rails db:migrate
 ```
-g - generate
+g - generate \
 scaffold - create multiple things at once
 
-db/schema.rb
+db/schema.rb \
 added to db/migrate folder
